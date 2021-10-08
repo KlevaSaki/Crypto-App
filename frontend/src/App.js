@@ -33,7 +33,7 @@ function App() {
                         </Switch>
                     </div>
                 </Layout>
-                <div className="footer" level={5} style={{color: "red", textAlign: "center"}}>
+                <div className="footer" level={5}>
                     <Typography.Title style={{color: "white", textAlign:"center"}}>
                         Cryptoverse <br />
                         All rights reserved
